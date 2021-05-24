@@ -4008,6 +4008,7 @@ CONFIG_hello-world=y
 #
 # user packages 
 #
+CONFIG_libuio=y
 
 #
 # PetaLinux RootFS Settings
