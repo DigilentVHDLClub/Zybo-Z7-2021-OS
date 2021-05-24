@@ -3,4 +3,8 @@ VALIDATE_HW_CHKSUM=1
 HARDWARE_PATH=/home/digilent/share/design_1_wrapper.xsa
 HARDWARE_CHECKSUM=ae4282ccdfaaa978c1401e0fec395dc4
 YOCTO_SDK=ec2933eff44b6c49df87d39a9666aafb
+<<<<<<< HEAD
 RFSCONFIG_CHKSUM=524a98250bb9671d45280c0c97e45344
+=======
+RFSCONFIG_CHKSUM=c3518aa8291b5bfc63b437bbef634c8e
+>>>>>>> c200af1... Added libuio

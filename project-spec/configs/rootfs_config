@@ -4009,7 +4009,11 @@ CONFIG_ledscript=y
 #
 # user packages 
 #
+<<<<<<< HEAD
 # CONFIG_leds-btn is not set
+=======
+CONFIG_libuio=y
+>>>>>>> c200af1... Added libuio
 
 #
 # PetaLinux RootFS Settings
