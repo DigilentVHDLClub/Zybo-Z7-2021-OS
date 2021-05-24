@@ -18,3 +18,10 @@
 
 };
 
+<<<<<<< HEAD
+=======
+&axi_pwm_generator_0
+{
+	compatible = "generic-uio";
+};
+>>>>>>> c58abd7... Added UIO to .dts
