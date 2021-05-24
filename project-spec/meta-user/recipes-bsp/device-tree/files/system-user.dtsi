@@ -11,3 +11,7 @@
    };
 };
 
+&led_gpio
+{
+	#gpio-cells = <2>;
+};
