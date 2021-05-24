@@ -4,6 +4,10 @@
 CONFIG_gpio-demo
 CONFIG_peekpoke
 CONFIG_hello-world
+<<<<<<< HEAD
 CONFIG_leds-control
 
 CONFIG_leds
+=======
+CONFIG_libuio
+>>>>>>> c200af1... Added libuio
