@@ -1,3 +1,17 @@
 /include/ "system-conf.dtsi"
 / {
+    gpio_led_0: gpio-leds {
+    	compatible = "gpio-leds";
+    	led-ds23 {
+        	label = "led-ds23";
+        	gpios = <&led_gpio 0 0>;
+        	default-state = "on";
+        	linux,default-trigger = "heartbeat";
+    	};
+   };
+};
+
+&led_gpio
+{
+     #gpio-cells = <2>;
 };
