@@ -15,3 +15,7 @@
 {
      #gpio-cells = <2>;
 };
+&axi_pwm_generator_0
+{
+	compatible = "generic-uio";
+};
