@@ -4002,7 +4002,8 @@ CONFIG_imagefeature-debug-tweaks=y
 # apps 
 #
 # CONFIG_gpio-demo is not set
-CONFIG_hello-world=y
+# CONFIG_hello-world is not set
+CONFIG_homework=y
 # CONFIG_peekpoke is not set
 
 #

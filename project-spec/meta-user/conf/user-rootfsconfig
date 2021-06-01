@@ -12,3 +12,4 @@ CONFIG_myapp
 CONFIG_libuio
 CONFIG_libuio
 CONFIG_libuio
+CONFIG_homework
