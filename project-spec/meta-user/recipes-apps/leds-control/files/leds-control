@@ -28,7 +28,7 @@ do
 		bval=$(cat "${path}${i}/value")
 		if [[ $bval -eq 1 ]] #reverse direction
 		then
-			flag = $((1-flag))
+			flag=$((1-flag))
 		fi
 		
 	done
